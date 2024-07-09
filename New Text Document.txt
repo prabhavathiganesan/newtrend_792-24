@@ -2,3 +2,5 @@ hi
 schl name
 clg name
 ofc name
+home
+bye
